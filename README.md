@@ -1,6 +1,6 @@
 # Neo-Brutalist Portfolio
 
-A modern, bold portfolio website built with React, TypeScript, and Tailwind CSS, featuring a distinctive neo-brutalist design aesthetic.
+A modern, bold portfolio website built with React, TypeScript, and Tailwind CSS, featuring a distinctive neo-brutalist design aesthetic
 
 https://nicolaskocher.netlify.app/
 
